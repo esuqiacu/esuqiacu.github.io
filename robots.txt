@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esuqiacu.github.io/PxG/sitemap_index.txt
+Sitemap: https://esuqiacu.github.io/aDb/sitemap_index.txt
+Sitemap: https://esuqiacu.github.io/cDw/sitemap_index.txt
+Sitemap: https://esuqiacu.github.io/qBp/sitemap_index.txt
